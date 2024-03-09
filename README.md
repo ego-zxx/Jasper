@@ -1,2 +1,0 @@
-# Jasper
-Client work
